@@ -10,8 +10,7 @@ Created on Fri Jun 25 9:22:59 2021
 def addition_deux_chiffres():
     a = int(input("a"))
     b = int(input("b"))
+    print("\n",a+b)
     return (a+b)
 
 addition_deux_chiffres()
-
-#zazfegfhdgfh,
