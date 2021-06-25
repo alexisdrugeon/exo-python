@@ -10,7 +10,7 @@ Created on Fri Jun 25 9:22:59 2021
 def addition_deux_chiffres():
     a = int(input("premier nombre a additionner : "))
     b = int(input("Second nombre a additionner : "))
-    print("\n",a+b)
+    print("\nL'addition de cs deux nombre est égal à : ",a+b)
     return (a+b)
 
 addition_deux_chiffres()
